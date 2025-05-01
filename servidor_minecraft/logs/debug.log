@@ -8242,3 +8242,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01May2025 14:59:03.965] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
 [01May2025 15:00:05.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 15:00:05.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 15:05:05.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 15:05:05.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 15:09:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlaaaMI: Set own game mode to Creative Mode]
+[01May2025 15:10:05.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 15:10:05.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 15:11:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlaaaMI has made the advancement [They Grow Up So Fast]
+[01May2025 15:13:00.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sachiko'/4515, l='ServerLevel[world]', x=803.24, y=64.00, z=731.76] died, message: 'Sachiko was slain by Husk'
+[01May2025 15:13:23.975] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[01May2025 15:13:50.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlaaaMI has made the advancement [Ad End-stra]

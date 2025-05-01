@@ -412,3 +412,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01May2025 14:53:51.246] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=923, y=69, z=949}
 [01May2025 14:54:05.496] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=579, y=-20, z=-338}
 [01May2025 14:54:55.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlaaaMI has made the advancement [Sweet Dreams]
+[01May2025 15:09:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlaaaMI: Set own game mode to Creative Mode]
+[01May2025 15:11:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlaaaMI has made the advancement [They Grow Up So Fast]
+[01May2025 15:13:00.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sachiko'/4515, l='ServerLevel[world]', x=803.24, y=64.00, z=731.76] died, message: 'Sachiko was slain by Husk'
+[01May2025 15:13:50.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlaaaMI has made the advancement [Ad End-stra]
